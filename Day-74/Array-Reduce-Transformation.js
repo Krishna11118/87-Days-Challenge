@@ -1,4 +1,3 @@
-
 var reduce = function(nums, fn, init) {
     console.log(init)
         console.log(fn)
