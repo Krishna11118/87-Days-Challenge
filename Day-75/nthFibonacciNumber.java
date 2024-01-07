@@ -1,4 +1,4 @@
- static int nthFibonacciNumber( int n){
+static int nthFibonacciNumber( int n){
 
           if (n <= 1) {
             return n;
